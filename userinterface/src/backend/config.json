@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://localhost:8090",
+
+    "idm": {
+      "login": "/login",
+      "register": "/register"
+    }
+}
+  
